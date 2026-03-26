@@ -1,0 +1,6 @@
+# My answers 
+1.	FocusBear was created to help solve productivity and wellbeing problems for individuals with ADHD and/or ASD.
+2.	The main problem FocusBear aims to solve is productivity by removing distractions, building routines, eliminating decision fatigue, increasing focus and motivation. 
+3.	An increase in ADHD diagnosis in the community means that there is a gap in the productivity app market that caters to neurodivergent individuals. Focus Bear solves this problem as there are more people getting tested and diagnosed with ADHD and thus need an application made by them for them. 
+4.	I believe in using technology for innovation and inclusivity. FocusBear mirror these values by creating a productivity application that caters to neurodivergent individuals hence, bridging the productivity gap. 
+5.	While I have not been formally diagnosed with ADHD, I struggle a lot with starting the day right, focusing on my tasks throughout the day, doomscrolling and decision fatigue. Therefore, finding a productivity app that supports users without shaming them is incredibly valuable to me. Having the opportunity to work on the application makes it even more exciting as I believe the app will have a positive impact on someone’s life.  
